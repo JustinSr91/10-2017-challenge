@@ -16,3 +16,6 @@ Use the Google Maps JavaScript API to create an app which will let you drop a pi
 • Unit tests
 • How I'm using git
 • What tools and 3rd party libraries I end up using
+
+# Checklist
+[] Create boilerplate
